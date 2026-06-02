@@ -9,3 +9,6 @@ duckduckgo-search
 sentence-transformers
 scikit-learn
 pydantic
+pypdf
+docx
+langchain.text_splitters

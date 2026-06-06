@@ -160,4 +160,4 @@ Agentic AI
 Backend Development
 Machine Learning Systems'''"""
 
-create_vector_store(resumeText)   
+ 
